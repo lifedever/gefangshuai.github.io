@@ -40,25 +40,11 @@ module.exports = config({
 			{ text: "主页", link: "/", icon: "home" },
 			{ text: "导航", link: "/home/", icon: "home" },
 		],
-
-		sidebar: {
-			"/": [
-				"",
-				"home",
-				"slides",
-				{
-					title: "如何使用",
-					icon: "creative",
-					prefix: "guide/",
-					children: ["", "page", "markdown", "disable", "encrypt"],
-				},
-			],
-		},
+		sidebar: 'auto',
 
 		author: "Timothy.Ge",
 
 		blog: {
-			intro: "/intro/",
 			sidebarDisplay: "mobile",
 			links: {
 				Zhihu: "https://zhihu.com",

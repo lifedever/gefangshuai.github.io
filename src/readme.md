@@ -36,7 +36,7 @@ project:
     #   desc: Detailed description of the article
     #   link: link to your article
 
-footer: customize your footer text
+footer: Build by vuepress-theme-hope
 ---
 
-For related configuration documents, please see [blog homepage](https://vuepress-theme.mrhope.site/guide/layout/blog/)
+移步 [Github](https://github.com/gefangshuai) 关注我
