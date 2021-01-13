@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64903f62-32d0-4760-a168-7a814f5f1e07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mac/nginx.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/disable.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/encrypt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guide/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/home.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/slides.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/guide/disable.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/guide/encrypt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/guide/markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/guide/page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/guide/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/home.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zh/slides.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610530992229</updated>
-      <workItem from="1610530996709" duration="507000" />
+      <workItem from="1610530996709" duration="919000" />
     </task>
     <servers />
   </component>
