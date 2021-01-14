@@ -56,8 +56,8 @@ module.exports = config({
 
         comment: {
             type: "valine",
-            appId: "msnseO76haIVIGvfJ10BKnpv-gzGzoHsz",
-            appKey: "9QMulKhu7EDp1va0TYXR2PrI",
+            appId: "oGD3t7EeMFAgHloXRwIBELPS-gzGzoHsz",
+            appKey: "lMusUa4OCKNYmJyo9ADazRPQ",
         },
 
         copyright: {
